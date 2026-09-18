@@ -1,0 +1,1 @@
+boolean age=20 is_adult = age >= 18
